@@ -1,0 +1,31 @@
+{
+  "token": "MTE2NzQ1NTA5MjAxNDg1ODI1MA.GeBjf9.tK-F4dodG6IpzGwj8nZB-uiije9wmwzpEzOhRw", 
+  "sunucid": "1168419329931493387",
+  "developer": "803361285647499335",
+  "yetkili": "1168648180657827910",
+  "unkarakteronay": "",
+  "karakteronay": "1168648507121467493",
+  "unwl": "1113211661050990672",
+  "wl": "1168648501857624177",
+  "wlisim": "İC İSİM",
+  "unwlisim": "",
+  "teyitses": "1118932815359262820",
+  "botungirecegises": "1087785363713560646",
+  "server": {
+    "servername": "BF RP",
+    "ip": "217.195.197.54",
+    "cfxtiklabaglanip": "cfx.re/join/7dzl7d",
+    "ts3ip": "voice",
+    "port": "30120"
+  },
+  "guild": {
+    "jail": "1087701226910646282"
+  },
+  "logs": {
+    "ban": "1087405104254169199",
+    "basvuru": "1118933100265750578"
+  },
+  "log": "1118933144838623352",
+  "color": "#000ebe",
+  "duration": 5000 
+}
